@@ -1,0 +1,8 @@
+{
+  "stack": {
+    "prefix": "sas"
+  },
+  "bucket": {
+    "name": "sas-storage-bucket"
+  }
+}
